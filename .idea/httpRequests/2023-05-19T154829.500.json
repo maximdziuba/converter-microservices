@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-05-19T13:48:29.956+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/currency/euro"
+}

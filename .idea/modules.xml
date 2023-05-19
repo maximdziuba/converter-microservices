@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converter-service/converter-service.iml" filepath="$PROJECT_DIR$/converter-service/converter-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/currency-microservices.iml" filepath="$PROJECT_DIR$/.idea/currency-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-service/currency-service.iml" filepath="$PROJECT_DIR$/currency-service/currency-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser-service/parser-service.iml" filepath="$PROJECT_DIR$/parser-service/parser-service.iml" />
+    </modules>
+  </component>
+</project>

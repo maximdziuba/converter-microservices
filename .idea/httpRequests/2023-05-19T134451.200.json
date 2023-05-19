@@ -1,0 +1,10 @@
+{
+  "name": "parser",
+  "profiles": [
+    "default"
+  ],
+  "label": null,
+  "version": null,
+  "state": null,
+  "propertySources": []
+}
