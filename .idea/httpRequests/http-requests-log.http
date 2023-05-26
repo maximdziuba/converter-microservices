@@ -1,3 +1,30 @@
+GET http://localhost:8888/default/parser-service
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-21T153540.200.json
+
+###
+
+GET http://localhost:8888/default/parser-service
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-21T153520.200.json
+
+###
+
+GET http://localhost:8888/default/parser-service
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-21T153505.200.json
+
+###
+
 GET http://localhost:8082/converter?from=uah&to=usd&value=100
 Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)

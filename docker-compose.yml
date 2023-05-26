@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  config-service:
+    container_name: "config-service"
+    build: "./config-service"
+    ports:
+      - "8888:8888"
+
+  discovery-service:
+    container_name: "discovery-service"
+    build: "./discovery-service"
+    ports:
+      - "8761:8761"
+
+  parser-service:
+    container_name: "parser-service"
+    build: "./parser-service"
+    ports:
+      - "8081:8081"
+
+  currency-service:
+    container_name: "currency-service"
+    build: "./currency-service"
+    ports:
+      - "8080:8080"
+
+  converter-service:
+    container_name: "converter-service"
+    build: "./converter-service"
+    ports:
+      - "8082:8082"
+
